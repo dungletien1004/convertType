@@ -4,8 +4,13 @@
 -In the "interfaces" folder, I write the code to save the interfaces that are shipped with the test
 
 -In the folder "untils", I write the solution code of the test
-  => function convertTimestamp used to convert Date -> TimeStamp
-  => function convertToExtShoppingItems used to convert ShopingItemType -> ExtShopingItemType
-  => function convertToExtNodeElements used to convert INodeElement -> IExtNodeElement
-  => function convertToExtChat used to convert Chat -> ExtChat
+
+    => function convertTimestamp used to convert Date -> TimeStamp
+  
+    => function convertToExtShoppingItems used to convert ShopingItemType -> ExtShopingItemType
+  
+    => function convertToExtNodeElements used to convert INodeElement -> IExtNodeElement
+  
+    => function convertToExtChat used to convert Chat -> ExtChat
+  
 -In the folder "mock", I write the mockdata of the test
